@@ -1,3 +1,5 @@
+######### This is Training App, fetching NASA API images and displaying after passing a search.
+
 # spacer-piotr
 
 ## Project setup
