@@ -2,6 +2,7 @@
     <input
         id="search"
         name="search"
+        placeholder="e.g. Moon"
         :class="{ dark }"
         :value="value"
         @input="handleChange"
