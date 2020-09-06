@@ -1,6 +1,10 @@
-######### This is Training App, fetching NASA API images and displaying after passing a search.
+# NASA Gallery Explorer
+Single Page Application - Explore NASA gallery API by searching any keyword you think of.
 
-# spacer-piotr
+Built on Vue.js Single Page Application project
+Web address: https://optimistic-joliot-df879a.netlify.app/
+
+![Nasa Explorer SPA](spacer/spa.png)
 
 ## Project setup
 ```
