@@ -4,7 +4,7 @@ Single Page Application - Explore NASA gallery API by searching any keyword you 
 Built on Vue.js Single Page Application project
 Web address: https://optimistic-joliot-df879a.netlify.app/
 
-![Nasa Explorer SPA](spacer/spa.png)
+![Nasa Explorer SPA](spacer-spa.png)
 
 ## Project setup
 ```
